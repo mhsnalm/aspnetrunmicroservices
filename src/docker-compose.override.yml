@@ -130,7 +130,7 @@ services:
       - catalog.api
       - basket.api
       - discount.api
-      - oredering.api
+      - ordering.api
     ports:
       - "8210:80"
 
